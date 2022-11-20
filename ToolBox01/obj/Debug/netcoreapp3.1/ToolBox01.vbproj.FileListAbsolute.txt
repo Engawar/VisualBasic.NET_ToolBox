@@ -1,0 +1,15 @@
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.ToolBox01.resources
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.vbproj.GenerateResource.cache
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.AssemblyInfoInputs.cache
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.AssemblyInfo.vb
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.vbproj.CoreCompileInputs.cache
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\ToolBox01.exe
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\ToolBox01.deps.json
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\ToolBox01.runtimeconfig.json
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\ToolBox01.runtimeconfig.dev.json
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\ToolBox01.dll
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\ToolBox01.pdb
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.vbproj.AssemblyReference.cache
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.dll
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.pdb
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.genruntimeconfig.cache

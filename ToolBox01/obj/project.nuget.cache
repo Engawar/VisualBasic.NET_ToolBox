@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhy1DgwGv7WKkgRyOHA9eBg29SInOYMJ6MkHrKWLODZeV57IdGV/h6PGU2ei/9gu8IQOpQ/eyJL0KEnl1XPsgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sazanami\\source\\repos\\ToolBox01\\VisualBasic.NET_ToolBox.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sazanami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

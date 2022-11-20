@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VisualBasic.NET_ToolBox/1.0.0": {
+        "runtime": {
+          "VisualBasic.NET_ToolBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisualBasic.NET_ToolBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

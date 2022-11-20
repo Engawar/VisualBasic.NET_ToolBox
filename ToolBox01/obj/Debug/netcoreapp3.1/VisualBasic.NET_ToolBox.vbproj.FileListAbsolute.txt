@@ -1,0 +1,14 @@
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.exe
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.deps.json
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.runtimeconfig.json
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.runtimeconfig.dev.json
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.dll
+C:\Users\Sazanami\source\repos\ToolBox01\bin\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.pdb
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\ToolBox01.ToolBox01.resources
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.vbproj.GenerateResource.cache
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.AssemblyInfoInputs.cache
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.AssemblyInfo.vb
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.vbproj.CoreCompileInputs.cache
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.dll
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.pdb
+C:\Users\Sazanami\source\repos\ToolBox01\obj\Debug\netcoreapp3.1\VisualBasic.NET_ToolBox.genruntimeconfig.cache
